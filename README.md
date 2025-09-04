@@ -43,4 +43,3 @@ ChatX is a real-time multi-client chat application developed in Java using TCP s
 * Emoji support.
 * Voice/video chat.
 
-* 
